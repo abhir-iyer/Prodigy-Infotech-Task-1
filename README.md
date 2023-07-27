@@ -1,0 +1,1 @@
+This repository contains code and resources for visualizing the distribution of categorical data using histograms in the Adult Census Income dataset. The dataset provides demographic information about individuals and their income levels.
